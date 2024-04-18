@@ -12,6 +12,11 @@ We hope you find this project interesting and useful. If you have any questions 
 
 Thank you for visiting this project!
 
+## requirements
+It is recommended to use Python 3.10 or higher due to the use of typing for functions.
+
+
+If I want to run it with previous versions, the typing must be modified
 
 ## About Dataset
 
