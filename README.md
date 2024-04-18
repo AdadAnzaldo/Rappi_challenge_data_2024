@@ -13,7 +13,7 @@ We hope you find this project interesting and useful. If you have any questions 
 Thank you for visiting this project!
 
 
-About Dataset
+## About Dataset
 
 transaction_id         – transition identifier                         int
 
@@ -39,7 +39,7 @@ Date                   – transaction date                              object
 Time                   – transaction time                              int
 
 
-  Device               – device data (year, brand, supplier)           str
+Device               – device data (year, brand, supplier)           str
 
   
 Establishment          – ​​place where the transaction was carried out   str 
