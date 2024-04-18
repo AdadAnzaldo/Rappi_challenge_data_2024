@@ -16,19 +16,49 @@ Thank you for visiting this project!
 About Dataset
 
 transaction_id         – transition identifier                         int
+
+
 user_id                – id identifier                                 int 
+
+
 gender                 – gender of user                                str
+
+
 linea_tc               – line of credit                                int
+
+
 Interest_tc            – interest on credit card                       int
+
+
 Amount                 – transaction amount                            float
+
+
 Date                   – transaction date                              object
+
+
 Time                   – transaction time                              int
+
+
   Device               – device data (year, brand, supplier)           str
+
+  
 Establishment          – ​​place where the transaction was carried out   str 
+
+
 City                   – city where the transaction took place         str 
+
+
 Status_txn             – transaction status                            str 
+
+
 Is_prime               – the user has contracted the prime service     bool
+
+
 Discount               – discount for the transaction                  float 
+
+
 Cashback               – money accumulated by the  transition          float
+
+
 Fraud                  – transaction categorized as fraud              bool 
 
